@@ -9,17 +9,18 @@
 
 ### About
 
-- Full-stack web developer with a strong interest in algorithmic problem-solving
-- Currently focused on strengthening Data Structures & Algorithms fundamentals
-- Active on LeetCode and Codeforces
-- Open to collaboration — reach out via GitHub
+Full-stack web developer with a strong interest in algorithmic problem-solving
+Currently focused on strengthening Data Structures & Algorithms fundamentals
+Active on LeetCode and Codeforces
+Open to collaboration — reach out via GitHub
+Interested in learning scale tradeoffs and big systems
 
 ---
 
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python,cpp,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,cpp,git,github" />
 </p>
 
 ---
@@ -59,15 +60,18 @@
 
 ---
 
-### Data Structures & Algorithms / Competitive Programming Statistics
+### Data Structures & Algorithms 
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Ashtsssssh?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ashtsssssh&theme=dark" alt="Codeforces Stats" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img height="200em" src="https://leetcard.jacoblin.cool/Ashtsssssh?theme=dark&font=Karma" alt="LeetCode Stats" />
+    </td>
+    <td>
+      <img height="200em" src="https://codeforces-readme-stats.vercel.app/api/card?username=ashtsssssh&theme=dark" alt="Codeforces Stats" />
+    </td>
+  </tr>
+</table>
 
 > Note: If any badge above shows "stats not found," the underlying third-party stats service may be temporarily rate-limited or unavailable. Refreshing the page or waiting a few minutes typically resolves this.
 
@@ -89,4 +93,4 @@
 
 ---
 
-<p align="center"><i>Thank you for visiting this profile. Feel free to explore the repositories above.</i></p>
+<p align="center"><i>Thank you for visiting this profile. Feel free to explore the repositories above or contact me.</i></p>
