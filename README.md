@@ -24,16 +24,35 @@
 
 ---
 
+### Top Projects
+
+<p align="center">
+  <a href="https://github.com/Ashtsssssh/Chorus">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashtsssssh&repo=Chorus&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Ashtsssssh/DiMITO">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashtsssssh&repo=DiMITO&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
 ### GitHub Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashtsssssh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashtsssssh&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashtsssssh&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashtsssssh&layout=compact&theme=tokyonight" />
+    </td>
+    <td>
+      <img height="180em" src="https://streak-stats.demolab.com/?user=Ashtsssssh&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashtsssssh&theme=tokyo-night" alt="Activity Graph" />
@@ -44,11 +63,7 @@
 ### Data Structures & Algorithms / Competitive Programming Statistics
 
 <p align="center">
-  <img src="https://leetcode-stats-saanvi.vercel.app/Ashtsssssh" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Ashtsssssh?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Card" />
+  <img src="https://leetcard.jacoblin.cool/Ashtsssssh?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
@@ -62,7 +77,7 @@
 ### Profile Links
 
 <p align="center">
-  <a href="https://leetcode.com/ashtsssssh" target="_blank">
+  <a href="https://leetcode.com/Ashtsssssh" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://codeforces.com/profile/ashtsssssh" target="_blank">
