@@ -25,16 +25,22 @@ Interested in learning scale tradeoffs and big systems
 
 ---
 
-### Top Projects
+### Currently Building
 
-<p align="center">
-  <a href="https://github.com/Ashtsssssh/Chorus">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashtsssssh&repo=Chorus&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Ashtsssssh/DiMITO">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashtsssssh&repo=DiMITO&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Ashtsssssh/Chorus">
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashtsssssh&repo=Chorus&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Ashtsssssh/DiMITO">
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashtsssssh&repo=DiMITO&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 - **[Chorus](https://github.com/Ashtsssssh/Chorus)**
 - **[DiMITO](https://github.com/Ashtsssssh/DiMITO)**
