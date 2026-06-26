@@ -28,28 +28,27 @@
 
 <p align="center">
   <a href="https://github.com/Ashtsssssh/Chorus">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashtsssssh&repo=Chorus&theme=tokyonight" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashtsssssh&repo=Chorus&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Ashtsssssh/DiMITO">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashtsssssh&repo=DiMITO&theme=tokyonight" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashtsssssh&repo=DiMITO&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+
+- **[Chorus](https://github.com/Ashtsssssh/Chorus)**
+- **[DiMITO](https://github.com/Ashtsssssh/DiMITO)**
 
 ---
 
 ### GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashtsssssh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
-
 <table align="center">
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashtsssssh&layout=compact&theme=tokyonight" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashtsssssh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
     </td>
     <td>
-      <img height="180em" src="https://streak-stats.demolab.com/?user=Ashtsssssh&theme=tokyonight" alt="GitHub Streak" />
+      <img height="180em" src="https://streak-stats.demolab.com/?user=Ashtsssssh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
