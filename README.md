@@ -1,163 +1,78 @@
-# Hi there 👋, I'm Ashutosh
+<h1 align="center">Ashtsssssh</h1>
+<h3 align="center">Web Developer | Data Structures & Algorithms / Competitive Programming</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Competitive+Programmer;Always+Building+Something+New" />
+  <img src="https://komarev.com/ghpvc/?username=Ashtsssssh&label=Profile%20views&color=0e75b6&style=flat" alt="Ashtsssssh" />
 </p>
 
 ---
 
-## 🚀 About Me
+### About
 
-* 🎓 Computer Science Graduate
-* 💻 Full Stack Developer with a passion for building scalable applications
-* 🤖 Interested in AI, LLMs, Computer Vision and Distributed Systems
-* ⚡ Strong foundation in Data Structures, Algorithms and System Design
-* 🌱 Currently exploring Redis, ML Context Engineering, and scalable backend architectures
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-![C++](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![Java](https://skillicons.dev/icons?i=java)
-![SQL](https://skillicons.dev/icons?i=mysql)
-
-### Frontend
-
-![React](https://skillicons.dev/icons?i=react)
-![Redux](https://skillicons.dev/icons?i=redux)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-
-### Backend
-
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Django](https://skillicons.dev/icons?i=django)
-
-### Databases & Cloud
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Redis](https://skillicons.dev/icons?i=redis)
-![Supabase](https://skillicons.dev/icons?i=supabase)
-![Docker](https://skillicons.dev/icons?i=docker)
-
-### Tools
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Vite](https://skillicons.dev/icons?i=vite)
+- Full-stack web developer with a strong interest in algorithmic problem-solving
+- Currently focused on strengthening Data Structures & Algorithms fundamentals
+- Active on LeetCode and Codeforces
+- Open to collaboration — reach out via GitHub
 
 ---
 
-# ⭐ Featured Projects
+### Tech Stack
 
-## 🎵 Chorous
-
-A modern music platform focused on seamless music discovery and streaming.
-
-**Highlights**
-
-* Spotify API Integration
-* Modern React Frontend
-* Authentication
-* Playlist & Track Management
-* Responsive UI
-
----
-
-## 🚦 DiMITO
-
-An AI-powered adaptive traffic management system that leverages Computer Vision for intelligent signal optimization.
-
-**Highlights**
-
-* YOLO-based vehicle detection
-* Django backend
-* Dynamic traffic density estimation
-* Smart green-light allocation
-* Real-time analytics dashboard
-
----
-
-## ❤️ Red Strings
-
-A real-time social platform inspired by meaningful connections.
-
-**Highlights**
-
-* Real-time messaging
-* Video & Voice Calling
-* Authentication & Authorization
-* Scalable backend architecture
-* Beautiful responsive interface
-
----
-
-## ✍️ Jazbaat
-
-A modern blogging platform designed for expressive writing.
-
-**Highlights**
-
-* JWT Authentication
-* Rich Blog Editor
-* Image Uploads
-* Secure REST APIs
-* Responsive Design
-
----
-
-## 💡 Interests
-
-* Artificial Intelligence
-* Large Language Models
-* Backend Engineering
-* Distributed Systems
-* Computer Vision
-* Open Source
-* System Design
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashtsssssh&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashtsssssh&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python,cpp,java,git,github,vscode" />
 </p>
 
 ---
 
+### GitHub Statistics
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Ashtsssssh&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashtsssssh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashtsssssh&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashtsssssh&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashtsssssh&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ---
 
+### Data Structures & Algorithms / Competitive Programming Statistics
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashtsssssh&theme=tokyo-night&hide_border=true"/>
+  <img src="https://leetcode-stats-saanvi.vercel.app/Ashtsssssh" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Ashtsssssh?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Card" />
+</p>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ashtsssssh&theme=dark" alt="Codeforces Stats" />
+</p>
+
+> Note: If any badge above shows "stats not found," the underlying third-party stats service may be temporarily rate-limited or unavailable. Refreshing the page or waiting a few minutes typically resolves this.
+
+---
+
+### Profile Links
+
+<p align="center">
+  <a href="https://leetcode.com/ashtsssssh" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/ashtsssssh" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ashtsssssh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📫 Let's Connect
-
-* GitHub: https://github.com/Ashtsssssh
-* LinkedIn: *Add your LinkedIn here*
-* Email: *Add your email here*
-
----
-
-> *"Build things that solve real problems, keep learning relentlessly, and let the code speak for itself."*
+<p align="center"><i>Thank you for visiting this profile. Feel free to explore the repositories above.</i></p>
